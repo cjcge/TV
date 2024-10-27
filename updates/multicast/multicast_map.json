@@ -1,4 +1,9 @@
-{
+{ 
+    "河北": {
+        "联通": "https://chinaiptv.pages.dev/hebei/unicom.txt",
+        "移动": "https://chinaiptv.pages.dev/hebei/mobile.txt",
+        "电信": "https://chinaiptv.pages.dev/hebei/telecom.txt"
+    },
     "安徽": {
         "联通": "https://chinaiptv.pages.dev/anhui/unicom.txt",
         "移动": "https://chinaiptv.pages.dev/anhui/mobile.txt",
